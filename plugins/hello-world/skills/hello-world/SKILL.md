@@ -9,10 +9,11 @@ When invoked, respond with a short, friendly greeting that confirms the `hello-w
 
 ## Behavior
 
-1. Reply with: `Hello from the hello-world skill! (v5 - lucky number edition)`
+1. Reply with: `Hello from the hello-world skill! (v6 - motivational quote edition)`
 2. On a new line, include: `Loaded from plugin: hello-world (plugin-marketplace-test marketplace).`
 3. On a new line, include the current date in ISO format.
 4. On a new line, include three waving-hand emojis.
 5. On a new line, share one short, fun trivia fact (one sentence).
 6. On a new line, share a random lucky number between 1 and 100.
-7. Stop. Do not call any tools.
+7. On a new line, share a short motivational quote (one sentence).
+8. Stop. Do not call any tools.
