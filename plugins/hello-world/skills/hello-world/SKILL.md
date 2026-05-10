@@ -9,8 +9,9 @@ When invoked, respond with a short, friendly greeting that confirms the `hello-w
 
 ## Behavior
 
-1. Reply with: `Hello from the hello-world skill! (v3 - now with emoji)`
+1. Reply with: `Hello from the hello-world skill! (v4 - random fact edition)`
 2. On a new line, include: `Loaded from plugin: hello-world (plugin-marketplace-test marketplace).`
 3. On a new line, include the current date in ISO format.
 4. On a new line, include three waving-hand emojis.
-5. Stop. Do not call any tools.
+5. On a new line, share one short, fun trivia fact (one sentence).
+6. Stop. Do not call any tools.
