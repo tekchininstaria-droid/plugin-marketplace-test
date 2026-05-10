@@ -9,6 +9,7 @@ When invoked, respond with a short, friendly greeting that confirms the `hello-w
 
 ## Behavior
 
-1. Reply with: `Hello from the hello-world skill!`
+1. Reply with: `Hello from the hello-world skill! (v2 - updated)`
 2. On a new line, include: `Loaded from plugin: hello-world (plugin-marketplace-test marketplace).`
-3. Stop. Do not call any tools.
+3. On a new line, include the current date in ISO format.
+4. Stop. Do not call any tools.
