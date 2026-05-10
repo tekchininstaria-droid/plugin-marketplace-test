@@ -1,0 +1,23 @@
+{
+  "name": "plugin-marketplace-test",
+  "owner": {
+    "name": "Kirill Kuts",
+    "email": "kirill.kuts@noibu.com"
+  },
+  "metadata": {
+    "description": "Test marketplace with hello-world skill plugins",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "hello-world",
+      "source": "./plugins/hello-world",
+      "description": "A hello-world skill plugin for testing the marketplace"
+    },
+    {
+      "name": "greet-pack",
+      "source": "./plugins/greet-pack",
+      "description": "A second plugin with a couple of placeholder greeting skills"
+    }
+  ]
+}

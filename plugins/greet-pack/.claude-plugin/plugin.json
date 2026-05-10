@@ -1,0 +1,9 @@
+{
+  "name": "greet-pack",
+  "version": "0.1.0",
+  "description": "A pack of placeholder greeting skills",
+  "author": {
+    "name": "Kirill Kuts",
+    "email": "kirill.kuts@noibu.com"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "description": "A hello-world skill plugin",
+  "author": {
+    "name": "Kirill Kuts",
+    "email": "kirill.kuts@noibu.com"
+  }
+}
